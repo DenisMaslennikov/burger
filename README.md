@@ -7,6 +7,6 @@
 Как запустить:  
 1. Клонируйте репозиторий 
 ```bash
-
+git clone https://github.com/DenisMaslennikov/burger.git
 ```
-2. 
+2. Откройте файл index.html из директории репозитория любым браузером. 
